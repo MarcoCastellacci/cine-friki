@@ -1,0 +1,11 @@
+.logo-tmdb{
+    width: 100%;
+}
+
+.footer{
+color:  rgb(144, 206, 161);
+background-color:rgb(13, 37, 63);
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
